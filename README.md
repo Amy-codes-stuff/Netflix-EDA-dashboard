@@ -1,21 +1,39 @@
-# Netflix Dashboard 🎬📊
+# 🎬📊 Netflix Dashboard  
 
-An interactive **Streamlit dashboard** and **EDA project** built on the Netflix Movies and TV Shows dataset.  
-Explore trends, genres, and content distribution across countries and years.
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
+![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-red)
+![Plotly](https://img.shields.io/badge/Visualization-Plotly-blue)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Active-success.svg)
+
+### Click Here 👉 [![Streamlit App](https://img.shields.io/badge/🌐_Live_Demo-Streamlit-orange?logo=streamlit)]([https://netflix-eda-dashboard-project.streamlit.app/](https://netflix-eda-dashboard-project.streamlit.app/))
+
+> An interactive **Streamlit dashboard** and **EDA project** built on the **Netflix Movies and TV Shows dataset**.  
+> Explore global content trends, genres, and distributions across countries and years. 🍿🌍  
+
+---
+
+## ✨ Features
+
+- **📊 Data Cleaning & EDA** – Performed in Jupyter Notebook  
+- **🎛 Interactive Dashboard** – Built with **Streamlit**  
+- **📈 Visualizations** – Dynamic plots with **Plotly**  
+- **🌍 Global Filters** – By Country, Year, Genre, and Type (Movie/TV Show)  
+- **🔍 Insights** – Discover viewing trends and catalog patterns  
 
 ---
 
 ## 📂 Project Structure
-netflix-dashboard/  
-│  
-├── app.py                     # Main Streamlit application  
-├── requirements.txt           # Required Python packages  
-├── notebooks/                 # Jupyter notebook with full EDA  
-├── data/                      # Processed dataset  
-└── README.md                  # Project documentation  
 
----
+```plaintext
+📂 netflix-dashboard/
+ ├── 📜 app.py               # Main Streamlit application
+ ├── 📄 requirements.txt     # Required Python packages
+ ├── 📓 notebooks/           # Jupyter notebooks with EDA
+ ├── 📊 data/                # Processed dataset
+ └── 📄 README.md            # Project documentation
 
+```
 
 ## ✨ Features
 - 📊 Data cleaning & exploratory analysis (EDA) in Jupyter Notebook  
@@ -27,18 +45,19 @@ netflix-dashboard/
 
 
 ## 🚀 Run Locally
-```bash
+```
+# 1️⃣ Clone the repository
 git clone https://github.com/<your-username>/netflix-dashboard.git
+
+# 2️⃣ Navigate to the project folder
 cd netflix-dashboard
+
+# 3️⃣ Install dependencies
 pip install -r requirements.txt
+
+# 4️⃣ Run the app
 streamlit run app.py
 ```
-
-
-## 🌐 Live Demo
-
-👉 View Dashboard https://netflix-eda-dashboard-project.streamlit.app/
-
 
 ## 📊 Insights
 
