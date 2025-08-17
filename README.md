@@ -6,7 +6,8 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Active-success.svg)
 
-### Click Here 👉 [![Streamlit App](https://img.shields.io/badge/🌐_Live_Demo-Streamlit-orange?logo=streamlit)]([https://netflix-eda-dashboard-project.streamlit.app/](https://netflix-eda-dashboard-project.streamlit.app/))
+### Click Here 👉 [![Streamlit App](https://img.shields.io/badge/Live_Demo-Streamlit-orange?logo=streamlit)](https://netflix-eda-dashboard-project.streamlit.app/)
+
 
 > An interactive **Streamlit dashboard** and **EDA project** built on the **Netflix Movies and TV Shows dataset**.  
 > Explore global content trends, genres, and distributions across countries and years. 🍿🌍  
